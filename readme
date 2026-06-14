@@ -60,7 +60,7 @@ pandas
 scikit.learn
 flask
 
-# model_traning.py
+# mitali.py
 import numpy as np
 import pandas as pd
 
@@ -109,7 +109,7 @@ df = pd.read_csv("Social_Network_Ads.csv")
 print(df.columns)
 print(df.head())
 
-# mitali.py
+# upload_csv1.py
 import pandas as pd
 import mysql.connector
 
